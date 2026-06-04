@@ -24,14 +24,7 @@ The Shop Ease e-commerce platform is live and accessible via the following links
 - **Live Demo:** [https://shop-ease-ecomm.netlify.app/](#)
 - **GitHub Repository:** https://github.com/Rishabh1066/ShopEase-Ecommerce-Website/tree/main
 
-## Installation
 
-To run the Shop Ease project locally, follow these steps:
-
-1. Clone the GitHub repository: `git clone [https://github.com/LokeshNaganaboina/ShopEase-E-commerce-React-App.git]`
-2. Navigate to the project directory: `cd ShopEase-E-commerce-React-App`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
 
 ## Feedback and Support
 
