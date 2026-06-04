@@ -22,7 +22,7 @@ Shop Ease is an e-commerce platform developed using ReactJS, Redux, and Firebase
 The Shop Ease e-commerce platform is live and accessible via the following links:
 
 - **Live Demo:** [https://shop-ease-ecomm.netlify.app/](#)
-- **GitHub Repository:** [https://github.com/LokeshNaganaboina/ShopEase-E-commerce-React-App](#)
+- **GitHub Repository:** https://github.com/Rishabh1066/ShopEase-Ecommerce-Website/tree/main
 
 ## Installation
 
